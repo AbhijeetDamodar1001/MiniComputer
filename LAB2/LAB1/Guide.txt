@@ -1,0 +1,7 @@
+gcc main.c compiler.c memory.c processor.c -o abc.exe
+./abc.exe
+
+or 
+
+mingw32-make
+./simulator.exe
